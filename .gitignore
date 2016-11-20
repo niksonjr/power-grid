@@ -1,0 +1,14 @@
+*.log
+*.sqlite
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+/node_modules
+
+/.idea/
+/dump.rdb
+*.map
+
+/dist
